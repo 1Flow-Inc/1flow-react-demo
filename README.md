@@ -79,4 +79,4 @@ If you've already created a survey and published it (survey shows up in the "In 
 
 # Common issues and fixes
 
-- To be updated @Namit Kumar
+- To be updated 
